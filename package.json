@@ -1,0 +1,19 @@
+{
+  "name": "budget",
+  "version": "1.0.0",
+  "description": "Budget app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kOtel-OK/budget.git"
+  },
+  "author": "kOtel_OK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kOtel-OK/budget/issues"
+  },
+  "homepage": "https://github.com/kOtel-OK/budget#readme"
+}
